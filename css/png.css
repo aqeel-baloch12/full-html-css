@@ -1,0 +1,22 @@
+.png{
+	
+	background-color:pink;
+	width:400px;
+	height:350px;
+	margin:0px;
+	padding:20px;
+	position:absolute;
+	top:200px;
+	left:390px;
+	box-sizing:border-box;
+	transform:translate(-50% -50%);
+	
+	
+}
+h1{
+	
+	padding:0px;
+	margin:0px;
+	width:bold;
+	font-size:20px;
+}

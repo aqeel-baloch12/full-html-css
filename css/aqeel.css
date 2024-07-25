@@ -1,0 +1,26 @@
+/*div>h1{
+	color:green;
+	background-color:pink;
+	text-align:center;
+}
+h1+p+p{
+	color:red;
+	font-size:20px
+}
+div h2{
+	color:green;
+	background-color:pink;
+	text-align:center;
+}
+h2+ul{
+	color:green;
+	text-align:center;
+	background-color:pink;
+}*/
+h1~p{
+	color:green;
+}
+p~h2{
+	color:gray;
+	background-color:pink;
+}

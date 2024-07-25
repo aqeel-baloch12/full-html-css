@@ -1,0 +1,25 @@
+.container{
+	border:2px solid blue;
+	position:relative;
+}
+.aqeel{
+	position:fixed;
+	bottom:100px;
+	right:200px;
+	
+	
+}
+
+
+
+.one{
+	border:2px solid red;
+	margin:10px;
+	background-color:pink;
+}
+.two{
+	border:2px solid black;
+	margin:10px;
+	background-color:gray;
+	position:fixed;
+}

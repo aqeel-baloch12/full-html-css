@@ -1,0 +1,35 @@
+.first{
+	color:black;
+	font-size:20px;
+	text-align:justify;
+	background-color:green;
+}
+.first h1{
+	color:black;
+	text-align:center;
+	background-color:gray;
+}
+.second{
+color:green;
+background-color:black;
+}
+.second h3{
+	color:yellow;
+	background-color:gray;
+    text-align:center;
+	font-size:40px;
+}
+#aq{
+	color:yellow;
+	font-size:40px;
+	background-color:pink;
+}
+#aq h3{
+	color:red;
+	background-color:brown;
+	text-align:center;
+}
+#aq p{
+	color:green;
+	
+}

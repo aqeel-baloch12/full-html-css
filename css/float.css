@@ -1,0 +1,36 @@
+.first{
+	background-color:red;
+	width:100%;
+	border:2px solid black;
+	float:left;
+}
+.first p{
+	float:right;
+	width:74%;
+	margin:5px;
+	
+}
+.first img{
+	float:left;
+	width:25%;
+	
+}
+
+
+
+
+
+
+
+.second{
+	background-color:brown;
+	width:30%;
+	border:2px solid black;
+	float:left;
+}
+.third{
+	background-color:green;
+	width:30%;
+	border:2px solid black;
+	float:left;
+}

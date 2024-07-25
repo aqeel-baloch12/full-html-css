@@ -1,0 +1,53 @@
+/*.one{
+	
+	color:black;
+	background-color:orange;
+	font-family:arial;
+}
+.one h1{
+	
+	text-align:center;
+	background-color:yellow;
+
+}
+.two{
+	color:gray;
+	background-color:red;
+}
+.two h2{
+	color:black;
+	text-align:center;
+	background-color:pink;
+}
+#three{
+	
+	color:orange;
+	text-align:center;
+	background-color:gray;
+	font-family:arial;
+	font-size:40px;
+	font-style:italic;
+	font-weight:lighter;
+}*/
+p{
+	
+	color:black;
+	text-align:left;
+	text-transform:uppercase;
+	font-size:40px;
+	text-shadow:red 10px 5px 3px;
+	letter-spacing:1px;
+	word-spacing:3px;
+}
+.one{
+	color:black;
+	background-color:gray;
+	font-size:40px;
+	direction:ltl;
+}
+.two{
+	color:pink;
+	background-color:black;
+	font-size:40px;
+	direction:rtl;
+}

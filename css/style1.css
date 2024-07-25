@@ -1,0 +1,24 @@
+p{
+	/*
+	font-family:arial;
+	font-weight:lighter;
+	font-size:20px;
+	font-style:normal;
+	font-weight:bold;
+	
+	font:italic bold 25px courier;*/
+	color:green;
+	text-align:justify;
+	text-transform:uppercase;
+	font-size:20px;
+	text-shadow:#ff0000 20px 10px 4px;
+	letter-spacing:1px;
+	word-spacing:10px;
+}
+.one{
+	
+	direction:ltl;
+}
+.two{
+	direction:rtl;
+}

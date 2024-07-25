@@ -1,0 +1,47 @@
+.two{
+	
+	border:2px solid red;
+	background-color:pink;
+	text-align:center;
+}
+.three{
+	
+	color:green;
+	border:2px solid red;
+	text-align:center;
+	background-color:yellow;
+}
+.two h1{
+	text-align:center;
+	background-color:red;
+	text-decoration:italics;
+}
+.one{
+	
+	border:2px solid black;
+	background-color:pink;
+	
+}
+.one p{
+	 color:red;
+	text-align:center;
+	text-decoration:arial;
+	font-size:10px;
+	font-family:arial;
+	background-color:green;
+	
+}
+#aq{
+	
+	border:4px solid red;
+    color:red;	
+}
+#bc{
+	
+list-style-type:lower-roman;
+list-style-position:inside;
+background-color:pink;
+}
+.cd{
+	 place-items: center;
+}

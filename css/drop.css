@@ -1,0 +1,80 @@
+body{
+	
+	margin:0px;
+	padding:0px 0px 0px 200px;
+	background-repeat:no-repeat;
+	background-size:cover;
+font-family:arial;
+background-size:cover;
+font-size:20px
+
+}
+.drop{
+	
+	margin:0px auto;
+	padding:0px;
+	width:2000px;
+	font-family:sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	display:block;
+}
+.drop ul{
+	
+	background-color:#86C7C0;
+	list-style:noe;
+	margin:0px;
+	padding-left:0px;
+}
+.drop ul li{
+	
+	color:#4d8c57 ;
+	background-color:#4d8c57 ;
+	float:left;
+	display:block;
+	margin:0px 2px 0px;
+	padding: 12px;
+	text-decoration:none;
+	text-transform:uppercase;
+	position:relative;
+	
+}
+.drop ul li a{
+	
+	color:black;
+	text-decoration:none;
+	display:block;
+}
+.drop ul li a:hover{
+	
+	color:black;
+	background-color:pink;
+	cursor:pointer;
+}
+.drop ul li ul{
+	
+	background-color:red;
+	visibility:hidden;
+	float:left;
+	min-width:50px;
+	position:absolute;
+	left:0px;
+	margin-top:20px;
+	transition:visibility 0.065 ease-in;
+	z-index:999;
+}
+.drop ul li:hover>ul,.drop ul li ul:hover{
+	
+	visibility:visible;
+}
+.drop ul li ul li{
+	width:100%;
+	clear:both;
+	padding:5px 0px 5px 18px;
+	
+}
+.drop ul li ul li:hover{
+	
+	
+	background-color:white;
+}
